@@ -7,6 +7,12 @@
 - Prisma as MongoDB ORM
 - vercel Cron Job is used to clean up annnymouse cart that has been update for a long period of time
 
+## Todo
+
+1. Implement Stripe for checkout
+2. Theme Switch (Dark -> Light, vice versa)
+3. Implement 2 more login using NextAuth
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -1,7 +1,6 @@
 import ProductCard from "@/components/ProductCard";
-import prisma from "@/lib/db/prisma";
+import { prisma } from "@/lib/db/prisma";
 import { Metadata } from "next";
-import { redirect } from "next/navigation";
 interface SearchPageProps {
   searchParams: { query: string };
 }

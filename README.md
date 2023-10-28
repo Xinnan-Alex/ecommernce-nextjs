@@ -5,6 +5,7 @@
 - DaisyUI & TailwindCSS for UI Styling
 - MongoDB as Database
 - Prisma as MongoDB ORM
+- vercel Cron Job is used to clean up annnymouse cart that has been update for a long period of time
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
